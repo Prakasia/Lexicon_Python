@@ -1,1 +1,4 @@
-
+- Strings
+- Dictionaries
+- Loop
+- Tuples
