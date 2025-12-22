@@ -1,0 +1,5 @@
+- Functinal Programming
+- Higher Order Functions
+- Decorators
+- Recursion
+- Static Utility methods
