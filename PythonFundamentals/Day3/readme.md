@@ -1,1 +1,5 @@
-
+- List and Comprehensions
+- Range and Loop
+- Functions 
+- Filter and Lambda Functions
+- *args and **kwargs
